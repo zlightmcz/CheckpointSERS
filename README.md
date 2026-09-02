@@ -1,5 +1,14 @@
 # CheckpointSERS
 
+# Membros do Grupo:
+* Gustavo Guedes Pereira — RM 569779
+* Lucas Angelo — RM 569530
+* Gustavo de Souza — RM 570746
+* Arthur Tae — RM 570647
+* Gabriel Rodrigues — RM 569322
+
+
+
 # Desafio Final — Análise de Dados de Energia
 
 ## Sobre o projeto
